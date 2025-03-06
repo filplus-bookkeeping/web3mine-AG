@@ -29,13 +29,13 @@
   "Datacap": {
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
-    "Total Requested Amount": "3360 GiB",
+    "Total Requested Amount": "4966 TiB",
     "Single Size Dataset": "",
     "Replicas": 0,
-    "Weekly Allocation": "3360 GiB"
+    "Weekly Allocation": "700 TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2025-02-01 11:28:46.581803705 UTC",
     "Validated By": "vvkio",
     "Active": true,
