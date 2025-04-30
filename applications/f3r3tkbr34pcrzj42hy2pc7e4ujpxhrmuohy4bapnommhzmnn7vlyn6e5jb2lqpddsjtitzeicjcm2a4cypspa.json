@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f3r3tkbr34pcrzj42hy2pc7e4ujpxhrmuohy4bapnommhzmnn7vlyn6e5jb2lqpddsjtitzeicjcm2a4cypspa",
+  "Issue Number": "27",
+  "Client": {
+    "Name": "",
+    "Region": "",
+    "Industry": "",
+    "Website": "",
+    "Social Media": "",
+    "Social Media Type": "",
+    "Role": ""
+  },
+  "Project": {
+    "Brief history of your project and organization": "",
+    "Is this project associated with other projects/ecosystem stakeholders?": "",
+    "Describe the data being stored onto Filecoin": "",
+    "Where was the data currently stored in this dataset sourced from": "",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "",
+    "What is the expected retrieval frequency for this data": "",
+    "For how long do you plan to keep this dataset stored on Filecoin": "",
+    "In which geographies do you plan on making storage deals": "",
+    "How will you be distributing your data to storage providers": "",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": ""
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "2.67PiB",
+    "Single Size Dataset": "",
+    "Replicas": 0,
+    "Weekly Allocation": "1.4PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-04-30 12:04:43.324690263 UTC",
+    "Validated By": "vvkio",
+    "Active": true,
+    "Updated At": "2025-04-30 12:04:43.324686724 UTC",
+    "Active Request ID": "90b24011-8ae4-4483-8193-31cbd53871e1",
+    "On Chain Address": "f3r3tkbr34pcrzj42hy2pc7e4ujpxhrmuohy4bapnommhzmnn7vlyn6e5jb2lqpddsjtitzeicjcm2a4cypspa",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "90b24011-8ae4-4483-8193-31cbd53871e1",
+      "Request Type": "First",
+      "Created At": "2025-04-30 12:02:36.582021258 UTC",
+      "Updated At": "2025-04-30 12:02:36.582022392 UTC",
+      "Active": false,
+      "Allocation Amount": "3006152751269806 B",
+      "Signers": [
+        {
+          "Github Username": "vvkio",
+          "Signing Address": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
+          "Created At": "2025-04-30 12:04:36.793000000 UTC",
+          "Message CID": "bafy2bzaceczpbwutx3nvkoglxasyttpfrivsrba5eyn6deq3u57otrv2laxqa"
+        }
+      ]
+    }
+  ]
+}
