@@ -35,11 +35,11 @@
     "Weekly Allocation": "1.4PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-04-30 12:02:36.582015908 UTC",
+    "State": "Granted",
+    "Validated At": "2025-04-30 12:04:43.324690263 UTC",
     "Validated By": "vvkio",
     "Active": true,
-    "Updated At": "2025-04-30 12:02:36.582019554 UTC",
+    "Updated At": "2025-04-30 12:04:43.324686724 UTC",
     "Active Request ID": "90b24011-8ae4-4483-8193-31cbd53871e1",
     "On Chain Address": "f3r3tkbr34pcrzj42hy2pc7e4ujpxhrmuohy4bapnommhzmnn7vlyn6e5jb2lqpddsjtitzeicjcm2a4cypspa",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2025-04-30 12:02:36.582021258 UTC",
       "Updated At": "2025-04-30 12:02:36.582022392 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "3006152751269806 B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "vvkio",
+          "Signing Address": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
+          "Created At": "2025-04-30 12:04:36.793000000 UTC",
+          "Message CID": "bafy2bzaceczpbwutx3nvkoglxasyttpfrivsrba5eyn6deq3u57otrv2laxqa"
+        }
+      ]
     }
   ]
 }
