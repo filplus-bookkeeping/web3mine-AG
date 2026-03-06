@@ -37,11 +37,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2026-03-06 17:31:38.972499828 UTC",
+    "Validated At": "2026-03-06 20:12:37.127785942 UTC",
     "Validated By": "vvkio",
     "Active": true,
-    "Updated At": "2026-03-06 17:31:38.972495104 UTC",
-    "Active Request ID": "c9984b38-ff27-471e-87b2-c51eb4649ded",
+    "Updated At": "2026-03-06 20:12:37.127784841 UTC",
+    "Active Request ID": "98515494-8763-4a14-b11c-2dd134cff2fe",
     "On Chain Address": "f3vg2m5bt2otdzv7i5kmw2qvbemrzaavlcpapemnejebrl56m66bagwvcugffpn5gzntdd22w3jg6vvao4dscq",
     "Multisig Address": "false",
     "edited": false
@@ -60,6 +60,30 @@
           "Signing Address": "f1zav5ykfacz4crj57crnbi55zp5733poswv6rxly",
           "Created At": "2026-03-06 17:31:37.231000000 UTC",
           "Increase allowance CID": "bafy2bzacedcd642atlvvlvuirh6xej2q5qopgtz7ulmzaugde245xzumsqxdk"
+        }
+      ]
+    }
+  ],
+  "Storage Providers Change Requests": [
+    {
+      "ID": "3a9be1dd-b3a7-441d-bb7c-3aa8286eb215",
+      "Created At": "2026-03-06 20:12:37.127766265 UTC",
+      "Updated At": "2026-03-06 20:12:37.127772144 UTC",
+      "Active": false,
+      "Allowed Storage Providers": [
+        3741653
+      ],
+      "Max Deviation": "10%",
+      "Signers": [
+        {
+          "Github Username": "vvkio",
+          "Signing Address": "f1zav5ykfacz4crj57crnbi55zp5733poswv6rxly",
+          "Set Max Deviation CID": "bafy2bzacecovrgx6nivzosymdfmj2jhy6pi4bvog5o4aep7jg3paxjps3e3zu",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzacebuvx67umc66hmtjzdksy45ycm4hq6ntqksvxk2jguxte32us6gwq": [
+              "3741653"
+            ]
+          }
         }
       ]
     }
