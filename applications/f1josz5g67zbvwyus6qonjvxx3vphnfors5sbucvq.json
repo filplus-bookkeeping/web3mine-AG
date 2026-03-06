@@ -36,11 +36,11 @@
     "Weekly Allocation": "5PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2026-03-06 15:38:28.936832397 UTC",
-    "Validated By": "martapiekarska",
+    "State": "Granted",
+    "Validated At": "2026-03-06 16:15:38.749213042 UTC",
+    "Validated By": "vvkio",
     "Active": true,
-    "Updated At": "2026-03-06 15:38:28.936836945 UTC",
+    "Updated At": "2026-03-06 16:15:38.749208479 UTC",
     "Active Request ID": "49747281-6cd8-44df-a532-de411ec0c474",
     "On Chain Address": "f1josz5g67zbvwyus6qonjvxx3vphnfors5sbucvq",
     "Multisig Address": "false",
@@ -52,9 +52,18 @@
       "Request Type": "First",
       "Created At": "2026-03-06 15:38:28.936838987 UTC",
       "Updated At": "2026-03-06 15:38:28.936840120 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1125899906842624 B",
-      "Signers": []
+      "Amount of Datacap Sent to Contract": "1125899906842624 B",
+      "Signers": [
+        {
+          "Github Username": "vvkio",
+          "Signing Address": "f1zav5ykfacz4crj57crnbi55zp5733poswv6rxly",
+          "Created At": "2026-03-06 16:15:36.982000000 UTC",
+          "Message CID": "bafy2bzaceamezd6he5i2c2tfuwaer2u4gi6ztj4g4wr2qaqb7lgcnrhjb7mms",
+          "Increase allowance CID": "bafy2bzacecxk4m37vtvs3tra4mq4l4ibvw4ykhc7z3hlv6z6cou3c4elydtwy"
+        }
+      ]
     }
   ]
 }
