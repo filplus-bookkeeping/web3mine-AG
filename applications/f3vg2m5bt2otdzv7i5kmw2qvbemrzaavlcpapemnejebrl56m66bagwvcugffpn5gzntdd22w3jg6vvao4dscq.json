@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f3vg2m5bt2otdzv7i5kmw2qvbemrzaavlcpapemnejebrl56m66bagwvcugffpn5gzntdd22w3jg6vvao4dscq",
   "Issue Number": "37",
+  "Client Contract Address": "f410fs7htfzjairhb32g4kcfwckoghaxcdmlpkugjtca",
   "Client": {
     "Name": "",
     "Region": "",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "5PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2026-03-06 17:24:33.953653916 UTC",
+    "Validated By": "vvkio",
     "Active": true,
-    "Updated At": "2026-03-06 17:22:32.034353744 UTC",
-    "Active Request ID": "",
+    "Updated At": "2026-03-06 17:24:33.953657561 UTC",
+    "Active Request ID": "5456a5a7-e167-4a3c-98fb-182a6cb2ee74",
     "On Chain Address": "f3vg2m5bt2otdzv7i5kmw2qvbemrzaavlcpapemnejebrl56m66bagwvcugffpn5gzntdd22w3jg6vvao4dscq",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "5456a5a7-e167-4a3c-98fb-182a6cb2ee74",
+      "Request Type": "First",
+      "Created At": "2026-03-06 17:24:33.953660261 UTC",
+      "Updated At": "2026-03-06 17:24:33.953661732 UTC",
+      "Active": true,
+      "Allocation Amount": "3298534883328000 B",
+      "Signers": []
+    }
+  ]
 }
