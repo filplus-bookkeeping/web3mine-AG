@@ -35,7 +35,7 @@
     "Weekly Allocation": "5PiB"
   },
   "Lifecycle": {
-    "State": "ChangesRequested",
+    "State": "Granted",
     "Validated At": "2026-04-21 22:35:42.207576268 UTC",
     "Validated By": "vvkio",
     "Active": true,
