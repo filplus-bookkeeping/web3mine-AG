@@ -35,11 +35,11 @@
     "Weekly Allocation": "5PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2026-05-11 17:24:06.371290929 UTC",
+    "State": "Granted",
+    "Validated At": "2026-05-12 15:56:07.838429218 UTC",
     "Validated By": "vvkio",
     "Active": true,
-    "Updated At": "2026-05-11 17:24:06.371295083 UTC",
+    "Updated At": "2026-05-12 15:56:07.838424699 UTC",
     "Active Request ID": "816cef41-5326-430b-ad5a-b3b32e02c58e",
     "On Chain Address": "f3r3tkbr34pcrzj42hy2pc7e4ujpxhrmuohy4bapnommhzmnn7vlyn6e5jb2lqpddsjtitzeicjcm2a4cypspa",
     "Multisig Address": "false",
@@ -115,9 +115,16 @@
       "Request Type": "Refill",
       "Created At": "2026-05-11 17:24:06.371302464 UTC",
       "Updated At": "2026-05-11 17:24:06.371303680 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "4398046511104000B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "vvkio",
+          "Signing Address": "f1zav5ykfacz4crj57crnbi55zp5733poswv6rxly",
+          "Created At": "2026-05-12 15:56:05.172000000 UTC",
+          "Message CID": "bafy2bzacecul6qz3gto2ink6kuznbzy3hcpj2d7hd6ubzuvtedlt6rxiea72c"
+        }
+      ]
     }
   ]
 }
